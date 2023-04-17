@@ -1,0 +1,62 @@
+body {
+  font-family: Century Gothic, Arial;
+}
+
+.container {
+  margin: auto;
+  text-align: center;
+}
+
+.box {
+  width: 80%;
+  border: 6px solid;
+  padding: 30px;
+  margin: 20px;
+}
+
+.desc {
+  color: white;
+	font-size: 40px;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  text-align: justify;
+  font-weight: bolder;
+  width: 70%;
+  font-size: 22px;
+  font-family: Century Gothic, Arial;
+}
+
+.name {
+  font-weight:bold;
+  font-size: 25px;
+  font-style: italic;
+}
+
+.title {
+  width: 70%;
+  font-size: 3rem;
+}
+
+.s1 {
+  color: white;
+  text-shadow: 2px 2px #272727;
+  background-image: url(../images/bg1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.s2 {
+  color: white;
+  text-shadow: 2px 2px #272727;
+  background-image: url(../images/bg2.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.s3 {
+  color: white;
+  text-shadow: 2px 2px #272727;
+  background-image: url(../images/bg3.jpg);
+  background-size: cover;
+  background-position: center;
+}
